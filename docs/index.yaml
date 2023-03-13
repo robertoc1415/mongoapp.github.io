@@ -1,0 +1,15 @@
+#esto lo genere con helm repo index .
+apiVersion: v1
+entries:
+  proyecto-mongo:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-03-12T19:32:58.847872-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 090b71fbf7febd5ad58587fd837f74194ee143d6f387c9c9e4769cfbafe1bbaf
+    name: proyecto-mongo
+    type: application
+    urls:
+    - proyecto-mongo-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-03-12T19:32:58.844044-05:00"
